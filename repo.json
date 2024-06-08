@@ -1,0 +1,8 @@
+{
+    "name": "Test Provider",
+    "description": "Test Provider ar",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://github.com/d3vCode0/repo/raw/main/plugin.json"
+    ]
+}
